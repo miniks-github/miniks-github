@@ -2,7 +2,7 @@
 
 ### What's up?
 - `🔭` I’m currently working on my dotfiles 
-- `🌱` I’m currently learning more about DevOps `🐳` & web development `🐱‍💻`
+- `🌱` I’m currently learning more about DevOps & web development `🐱‍💻`
 
 ### Techs
 
